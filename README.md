@@ -1,5 +1,6 @@
 # kafka-connect-mixpanel
 The connector loads your events data from Mixpanel to Kafka. 
+Currently the SourceRecords created have a simple **STRING_SCHEMA**.
 
 # Building
 You can build the connector with Maven:
