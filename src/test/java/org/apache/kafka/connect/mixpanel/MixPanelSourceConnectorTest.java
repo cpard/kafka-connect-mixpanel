@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by Kostas on 3/21/2016.
+ * Created by Kostas.
  */
 public class MixPanelSourceConnectorTest {
     private MixPanelConnector connector;
