@@ -26,3 +26,6 @@ topic=mixp
 * **api_secret**: your API secret for the project from which you want to pull data from.
 * **from_date**: Some date in the past from when you would like to start pulling data.
 * **topic**: the name of the Kafka topic where the data will be pushed.
+
+
+Made with &#9829; from the [Blendo](https://www.blendo.co/) team
