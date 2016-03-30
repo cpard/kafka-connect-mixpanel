@@ -35,7 +35,7 @@ public class DateUtils {
         int modulo = dates.size() % n;
 
         if(n > dates.size()){
-            for(int i = 0; i < res.size();i++){
+            for(int i = 0; i < dates.size();i++){
                 Tuple tuple = new Tuple(dates.get(i), dates.get(i));
                 res.add(tuple);
             }
